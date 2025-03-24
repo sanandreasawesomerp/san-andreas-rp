@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>San Andreas Awesome Roleplaying</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>San Andreas Awesome Roleplaying</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#departments">Departments</a></li>
+                <li><a href="#join">Join Us</a></li>
+                <li><a href="#community">Community</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Welcome to the Ultimate GTA RP Experience!</h2>
+        <p>Join us for the most immersive roleplaying experience in San Andreas.</p>
+        <a href="#join" class="cta-button">Apply Now</a>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>San Andreas Awesome Roleplaying is a dedicated GTA RP server focused on realistic roleplay, dynamic stories, and an active community.</p>
+    </section>
+
+    <section id="departments">
+        <h2>Our Departments</h2>
+        <ul>
+            <li>🚓 Police Department</li>
+            <li>🚒 Fire & EMS</li>
+            <li>🚗 Civilian Operations</li>
+            <li>🏢 Government & Businesses</li>
+        </ul>
+    </section>
+
+    <section id="join">
+        <h2>Join Us</h2>
+        <p>Think you have what it takes? Apply now to start your RP journey!</p>
+        <a href="https://discord.gg/yourserver" target="_blank" class="cta-button">Join Our Discord</a>
+    </section>
+
+    <section id="community">
+        <h2>Community</h2>
+        <p>Connect with us on Discord and stay updated with the latest RP scenarios and events.</p>
+    </section>
+
+    <footer>
+        <p>© 2024 San Andreas Awesome Roleplaying. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
